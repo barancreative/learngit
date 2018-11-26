@@ -1,2 +1,2 @@
 # learngit
-learn
+learn git commands
